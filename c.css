@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Roboto;
+    margin-left: 5px;
+}
+
+p {
+    text-align: center;
+    font-family: Roboto;
+}
+
+p a {
+    color: rgba(0, 140, 255, 0.871);
+    text-decoration: none;
+    font-family: Roboto;
+}
+
+img {
+    width: 100%;
+}
+.i {font-size: 23px;text-align: center;font-weight: 800;}
